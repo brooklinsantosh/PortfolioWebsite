@@ -7,15 +7,21 @@
   "ascent": 850,
   "glyphs": [
     {
+      "uid": "1145676a91138011729fa2909997af66",
+      "css": "linkedin-squared",
+      "code": 62220,
+      "src": "fontawesome"
+    },
+    {
       "uid": "0f6a2573a7b6df911ed199bb63717e27",
       "css": "github-circled",
       "code": 61595,
       "src": "fontawesome"
     },
     {
-      "uid": "627abcdb627cb1789e009c08e2678ef9",
-      "css": "twitter",
-      "code": 61593,
+      "uid": "47a1f80457068fbeab69fdb83d7d0817",
+      "css": "youtube-play",
+      "code": 61802,
       "src": "fontawesome"
     },
     {
@@ -25,22 +31,32 @@
       "src": "fontawesome"
     },
     {
-      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
-      "css": "linkedin",
-      "code": 61665,
-      "src": "fontawesome"
+      "uid": "6b8fc77848d85c2f8e4870c81a56dc20",
+      "css": "kaggle",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M594.1 979.5L309.4 625.6 582.4 361.3C587.5 356.1 585.7 340.8 572.1 340.8H436.9C430.1 340.8 423.2 344.3 416.4 351.2L158 612.3V14.6Q158 0 143.4 0H42Q27.3 0 27.3 14.6V985.4Q27.3 1000 42 1000H143.4Q158 1000 158 985.4V772.5L218.2 715.2 434 989.8C439.8 996.7 446.7 1000.2 454.5 1000.2H585.2Q595.4 1000.2 596.9 994.3Z",
+        "width": 625
+      },
+      "search": [
+        "kaggle"
+      ]
     },
     {
-      "uid": "76675011e906d50af404186b489fc76f",
-      "css": "codeopen",
-      "code": 61899,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "e99461abfef3923546da8d745372c995",
-      "css": "cog",
-      "code": 59392,
-      "src": "fontawesome"
+      "uid": "5690888b356a340b475d6cbae9caf02a",
+      "css": "kaggle-(1)",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M594.1 979.5L309.4 625.6 582.4 361.3C587.5 356.1 585.7 340.8 572.1 340.8H436.9C430.1 340.8 423.2 344.3 416.4 351.2L158 612.3V14.6Q158 0 143.4 0H42Q27.3 0 27.3 14.6V985.4Q27.3 1000 42 1000H143.4Q158 1000 158 985.4V772.5L218.2 715.2 434 989.8C439.8 996.7 446.7 1000.2 454.5 1000.2H585.2Q595.4 1000.2 596.9 994.3Z",
+        "width": 625
+      },
+      "search": [
+        "kaggle-(1)"
+      ]
     }
   ]
 }
